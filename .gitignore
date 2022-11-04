@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset media
+/CUT_FRMES/*
+/MAIN_DATA/empty_imgs/*
+/MAIN_DATA/images/*
+/MAIN_DATA/labels/*
+/MEDIA_STORAGE/drone_view_img/*
+/MEDIA_STORAGE/drone_view_video/*
+/MEDIA_STORAGE/empty_img/*
+/MEDIA_STORAGE/empty_video/*
+/MEDIA_STORAGE/turel_view_img/*
+/MEDIA_STORAGE/turel_view_video/*
